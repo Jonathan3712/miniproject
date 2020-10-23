@@ -1,0 +1,94 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body
+{
+  background-image: url(E:/project/bg.png);
+}
+header
+{
+  height: 50%;
+  width: 100%;
+}
+header center h1
+{
+  background-color: #042331;
+  color: #ffffff;
+}
+div.bg
+{
+  padding:12px; 
+  margin:7px;
+  border-style: groove;
+  background-image: url(E:/project/icon2.jpg);
+  height: 100%;
+  width: 50%;
+}
+div.bg h2 span
+{
+  color: #F6D55C;
+  text-decoration: underline;
+}
+div.bg p
+{
+  color: #fff;
+}
+div.sub-head
+{
+  width: 400px;
+  height: 35px;
+  border-style: groove;
+  margin-left: 7px;
+  background-image: url(E:/project/icon2.jpg);
+  padding-left: 15px;
+  color: #F6D55C;
+}
+div.index
+{
+  padding-top: 5px;
+  padding-left: 15px;
+  margin-left: 1%;
+}
+div.images
+{
+  padding-top: 30px;
+}
+/*---------------footer-----------------*/
+.footer
+{
+  position: center;
+  margin-top: 50px;
+  background:#042331;
+  color: #ffffff;
+}
+.footer h1
+{
+  font-size: 25px;
+  margin: 25px;
+}
+.footer p
+{
+  font-size: 14px;
+}
+.copyright
+{
+  margin-bottom: -80px;
+  text-align: center;
+  font-size: 15px;
+  padding-bottom: 20px;
+}
+.footer .row .fa
+{
+  padding-right: 10px;
+  font-size: 15px;
+}
+.footer-image img
+{
+  width: 150px;
+}
+.footer hr
+{
+  margin-top: 10px;
+  background-color: #ccc;
+}
